@@ -1,0 +1,14 @@
+C:\Users\magnolia.hiller\source\repos\jogo_animais2\jogo_animais2\bin\Debug\net8.0\jogo_animais2.exe
+C:\Users\magnolia.hiller\source\repos\jogo_animais2\jogo_animais2\bin\Debug\net8.0\jogo_animais2.deps.json
+C:\Users\magnolia.hiller\source\repos\jogo_animais2\jogo_animais2\bin\Debug\net8.0\jogo_animais2.runtimeconfig.json
+C:\Users\magnolia.hiller\source\repos\jogo_animais2\jogo_animais2\bin\Debug\net8.0\jogo_animais2.dll
+C:\Users\magnolia.hiller\source\repos\jogo_animais2\jogo_animais2\bin\Debug\net8.0\jogo_animais2.pdb
+C:\Users\magnolia.hiller\source\repos\jogo_animais2\jogo_animais2\obj\Debug\net8.0\jogo_animais2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magnolia.hiller\source\repos\jogo_animais2\jogo_animais2\obj\Debug\net8.0\jogo_animais2.AssemblyInfoInputs.cache
+C:\Users\magnolia.hiller\source\repos\jogo_animais2\jogo_animais2\obj\Debug\net8.0\jogo_animais2.AssemblyInfo.cs
+C:\Users\magnolia.hiller\source\repos\jogo_animais2\jogo_animais2\obj\Debug\net8.0\jogo_animais2.csproj.CoreCompileInputs.cache
+C:\Users\magnolia.hiller\source\repos\jogo_animais2\jogo_animais2\obj\Debug\net8.0\jogo_animais2.dll
+C:\Users\magnolia.hiller\source\repos\jogo_animais2\jogo_animais2\obj\Debug\net8.0\refint\jogo_animais2.dll
+C:\Users\magnolia.hiller\source\repos\jogo_animais2\jogo_animais2\obj\Debug\net8.0\jogo_animais2.pdb
+C:\Users\magnolia.hiller\source\repos\jogo_animais2\jogo_animais2\obj\Debug\net8.0\jogo_animais2.genruntimeconfig.cache
+C:\Users\magnolia.hiller\source\repos\jogo_animais2\jogo_animais2\obj\Debug\net8.0\ref\jogo_animais2.dll
